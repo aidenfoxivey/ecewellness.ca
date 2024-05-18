@@ -15,7 +15,7 @@ My job is to work wit
 
 You can message me on [Signal](https://signal.me/#eu/id2XJDPw4gdtD8Avvs25yJVuUbKS7bpg8SvXd1WhPyg_sqVFt2NGe7XpMB9uN38k).
 
-![A signal QR code.](./signal-username-qr-code.png)
+![A signal QR code.](./signal-username-qr-code.png){: width="250" }
 
 You will be completely anonymous to me. From there you can discuss your needs and I can help with resources.
 
@@ -23,7 +23,7 @@ You will be completely anonymous to me. From there you can discuss your needs an
 
 Kora Sevo.
 
-![A portrait of Kora Sevo.](https://uwaterloo.ca/electrical-computer-engineering/sites/default/files/styles/uw_is_portrait/public/uploads/images/kora.jpg?itok=VvX10yPg)
+![A portrait of Kora Sevo.](https://uwaterloo.ca/electrical-computer-engineering/sites/default/files/styles/uw_is_portrait/public/uploads/images/kora.jpg?itok=VvX10yPg){: width="250" }
 
 
 ## Want to set up a visit with the wellness coordinator?
