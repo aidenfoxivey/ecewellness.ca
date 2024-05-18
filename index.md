@@ -5,15 +5,19 @@ layout: home
 
 # ECE Wellness
 
+{: .note } This site is not sanctioned and/or approved by the university. It is a student initiative.
+
 Hi there. I'm Aiden.
 
 I'm the University of Waterloo's ECE2026 wellness representative for the Spring 2024 term.
 
 My job is to work wit
 
+## Want to know when my next scheduled meeting is?
+
 ## Want to talk anonymously?
 
-You can message me on [Signal](https://signal.me/#eu/id2XJDPw4gdtD8Avvs25yJVuUbKS7bpg8SvXd1WhPyg_sqVFt2NGe7XpMB9uN38k).
+You can [message me on Signal](https://signal.me/#eu/id2XJDPw4gdtD8Avvs25yJVuUbKS7bpg8SvXd1WhPyg_sqVFt2NGe7XpMB9uN38k).
 
 ![A signal QR code.](./signal-username-qr-code.png){: width="250" }
 
