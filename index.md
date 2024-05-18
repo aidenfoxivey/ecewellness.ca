@@ -17,9 +17,18 @@ You can message me on [Signal](https://signal.me/#eu/id2XJDPw4gdtD8Avvs25yJVuUbK
 
 You will be completely anonymous to me. From there you can discuss your needs and I can help with resources.
 
+## Who is the wellness coordinator?
+
+Kora Sevo.
+
+![A portrait of Kora Sevo.](https://uwaterloo.ca/electrical-computer-engineering/sites/default/files/styles/uw_is_portrait/public/uploads/images/kora.jpg?itok=VvX10yPg)
+
+
 ## Want to set up a visit with the wellness coordinator?
 
 You can email Kora at [ksevo@uwaterloo.ca](mailto:ksevo@uwaterloo.ca).
+
+Her office is in E7 4322. If you would like to call, 519-888-4567 x42107. (Call the number first, then put in the extension.)
 
 Alternatively, you can set up a direct meeting with [this link](https://outlook.office365.com/owa/calendar/bkg-ECEWellnessCoordinator@uwaterloo.ca/bookings/).
 
