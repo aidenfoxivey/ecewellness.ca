@@ -15,6 +15,8 @@ My job is to work wit
 
 You can message me on [Signal](https://signal.me/#eu/id2XJDPw4gdtD8Avvs25yJVuUbKS7bpg8SvXd1WhPyg_sqVFt2NGe7XpMB9uN38k).
 
+![A signal QR code.](./signal-username-qr-code.png)
+
 You will be completely anonymous to me. From there you can discuss your needs and I can help with resources.
 
 ## Who is the wellness coordinator?
