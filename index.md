@@ -5,7 +5,8 @@ layout: home
 
 # ECE Wellness
 
-{: .note } This site is not sanctioned and/or approved by the university. It is a student initiative.
+{: .note } 
+This site is not sanctioned and/or approved by the university. It is a student initiative.
 
 Hi there. I'm Aiden.
 
