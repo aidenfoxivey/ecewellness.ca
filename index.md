@@ -5,7 +5,7 @@ layout: home
 
 # ECE Wellness
 
-{: .note } 
+{: .note }
 This site is not sanctioned and/or approved by the university. It is a student initiative.
 
 Hi there. I'm Aiden.
@@ -41,6 +41,10 @@ Alternatively, you can set up a direct meeting with [this link](https://outlook.
 
 ### Will I be forced to disclose anything to professors / family / administation?
 
-No! Any notes taken during sessions are encrypted with the pass key only accessible to Kora. There is no requirement for Kora
+**No!**
+
+Any notes taken during sessions are encrypted with the pass key only accessible to Kora. There is no requirement for Kora
 to disclose that you have had any appointments with her in the past. Administration cannot enquire, unless they have received your
 permission.
+
+ECEWellness.ca by [Aiden Fox Ivey](https://aidenfoxivey.com). If you're in doubt, reach out.
