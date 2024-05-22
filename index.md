@@ -14,9 +14,15 @@ I'm the University of Waterloo's ECE2026 wellness representative for the Spring 
 
 My job is to work wit
 
+## What concerns do we handle?
+
+
+
 ## Want to know when my next scheduled meeting is?
 
-Please check the calendar.
+You can view the calendar [as a webpage](https://outlook.office365.com/owa/calendar/bdf8cd3f29a6436693acdf7d3e5a836d@uwaterloo.ca/140908a0e9a444c4be2bd53010e966fd15848364299214247537/calendar.html).
+
+Tech savvy users can directly import the [iCal/.ics link](https://outlook.office365.com/owa/calendar/bdf8cd3f29a6436693acdf7d3e5a836d@uwaterloo.ca/140908a0e9a444c4be2bd53010e966fd15848364299214247537/calendar.ics) to their calendar to subscribe.
 
 ## Want to send me a note / comment / concern?
 
