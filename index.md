@@ -13,9 +13,20 @@ Hi there. I'm Aiden.
 
 I'm the University of Waterloo's ECE2026 wellness representative for the Spring 2024 term.
 
+## Disclaimer
+
+You'll find this on [my website](https://aidenfoxivey.com) as well. Just as a refresher.
+
+I am utterly opposed to transphobia, homophobia, racism, classism, and other forms of discrimination or hate.
+
 ## What concerns do we handle?
 
-
+ECE Wellness is set up to handle the following kinds of issues:
+* mental health concerns
+* academic stresses
+* bullying
+* prejudice between students and other students
+* prejudice between students and faculty
 
 ## Want to know when my next scheduled meeting is?
 
@@ -27,7 +38,7 @@ Tech savvy users can directly import the [iCal/.ics link](https://outlook.office
 
 You can fill out this [Microsoft survey](https://forms.office.com/r/fP48b34BX8). It is as anonymous as I can make it.
 
-![The wellness survey QR code.](./wellness-survey.png){: width="250" }
+![The wellness survey QR code.](./wellness_survey.png){: width="250" }
 
 ## Want to talk anonymously?
 
