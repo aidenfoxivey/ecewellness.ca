@@ -16,6 +16,14 @@ My job is to work wit
 
 ## Want to know when my next scheduled meeting is?
 
+Please check the calendar.
+
+## Want to send me a note / comment / concern?
+
+You can fill out this [Microsoft survey](https://forms.office.com/r/fP48b34BX8). It is as anonymous as I can make it.
+
+![The wellness survey QR code.](./wellness-survey.png){: width="250" }
+
 ## Want to talk anonymously?
 
 You can [message me on Signal](https://signal.me/#eu/id2XJDPw4gdtD8Avvs25yJVuUbKS7bpg8SvXd1WhPyg_sqVFt2NGe7XpMB9uN38k).
