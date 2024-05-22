@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: minimal
 nav_exclude: true
 ---
 
@@ -12,8 +12,6 @@ This site is not sanctioned and/or approved by the university. It is a student i
 Hi there. I'm Aiden.
 
 I'm the University of Waterloo's ECE2026 wellness representative for the Spring 2024 term.
-
-My job is to work wit
 
 ## What concerns do we handle?
 
