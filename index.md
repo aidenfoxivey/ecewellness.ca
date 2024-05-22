@@ -60,5 +60,3 @@ Alternatively, you can set up a direct meeting with [this link](https://outlook.
 Any notes taken during sessions are encrypted with the pass key only accessible to Kora. There is no requirement for Kora
 to disclose that you have had any appointments with her in the past. Administration cannot enquire, unless they have received your
 permission.
-
-ECEWellness.ca by [Aiden Fox Ivey](https://aidenfoxivey.com). If you're in doubt, reach out.
