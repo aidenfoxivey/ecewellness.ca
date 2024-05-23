@@ -48,9 +48,13 @@ You can [message me on Signal](https://signal.me/#eu/id2XJDPw4gdtD8Avvs25yJVuUbK
 
 You will be completely anonymous to me. From there you can discuss your needs and I can help with resources.
 
+## Need to vent?
+
+Download and print off our [complaint sheet](./ececomplaintsheet.pdf). You can also fill it out with the iPad.
+
 ## Who is the wellness coordinator?
 
-Kora Sevo.
+Kora Sevo. She's awesome.
 
 ![A portrait of Kora Sevo.](https://uwaterloo.ca/electrical-computer-engineering/sites/default/files/styles/uw_is_portrait/public/uploads/images/kora.jpg?itok=VvX10yPg){: width="250" }
 
