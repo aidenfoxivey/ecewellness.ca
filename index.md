@@ -40,14 +40,6 @@ You can fill out this [Microsoft survey](https://forms.office.com/r/fP48b34BX8).
 
 ![The wellness survey QR code.](./wellness_survey.png){: width="250" }
 
-## Want to talk anonymously?
-
-You can [message me on Signal](https://signal.me/#eu/id2XJDPw4gdtD8Avvs25yJVuUbKS7bpg8SvXd1WhPyg_sqVFt2NGe7XpMB9uN38k).
-
-![A signal QR code.](./signal-username-qr-code.png){: width="250" }
-
-You will be completely anonymous to me. From there you can discuss your needs and I can help with resources.
-
 ## Need to vent?
 
 Download and print off our [complaint sheet](./ececomplaintsheet.pdf). You can also fill it out with the iPad.
